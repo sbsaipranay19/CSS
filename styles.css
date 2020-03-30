@@ -133,7 +133,7 @@ p{
  line-height: 2;
 }
 .contact{
- width: 40%;
+ width: 30%;
  margin: 40px auto 40px;
 }
 .cr{
@@ -141,6 +141,10 @@ p{
  font-size: 0.75rem;
  padding: 20px 0;
 }
-
+.ice{
+ float: left;
+ margin:auto;
+ padding-left: 325px;
+}
 
 
